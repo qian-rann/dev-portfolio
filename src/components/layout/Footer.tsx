@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Mail, Heart, Users, Eye } from 'lucide-react';
 import { contactInfo, personalInfo } from '../../data/content';
 

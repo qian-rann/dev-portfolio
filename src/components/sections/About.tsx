@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Terminal, Wrench, Layout } from 'lucide-react';
 import { personalInfo, skills } from '../../data/content';

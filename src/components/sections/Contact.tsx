@@ -1,7 +1,6 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Mail, Github, BookOpen, MapPin, Send } from 'lucide-react';
-import { contactInfo, personalInfo } from '../../data/content';
+import { contactInfo } from '../../data/content';
 
 export const Contact = () => {
   return (

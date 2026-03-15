@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X, Code2, Moon, Sun } from 'lucide-react';
 import { navLinks } from '../../data/content';
 import { useTheme } from '../../hooks/useTheme';
