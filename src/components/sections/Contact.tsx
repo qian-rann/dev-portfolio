@@ -90,7 +90,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500 dark:text-slate-400 font-medium">所在地区</p>
-                  <p className="text-lg text-slate-800 dark:text-white font-medium">Remote / China</p>
+                  <p className="text-lg text-slate-800 dark:text-white font-medium">ShenZhen / China</p>
                 </div>
               </div>
             </div>
