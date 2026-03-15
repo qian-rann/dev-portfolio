@@ -1,10 +1,10 @@
 import { PersonalInfo, Project, Skill, ContactInfo } from '../types';
 
 export const personalInfo: PersonalInfo = {
-  name: "张三", // 请修改为你的名字
+  name: "李智", // 请修改为你的名字
   headline: "专注于高效后端架构的开发者",
   shortBio: "热爱开源技术，擅长构建高可用、可扩展的后端服务系统。",
-  fullBio: "我是一名拥有多年经验的后端开发工程师。我喜欢将复杂的业务逻辑转化为简洁、高效的代码。在日常开发中，我不仅关注代码质量，更注重系统的整体架构和性能优化。我相信优秀的技术可以驱动业务的快速增长。",
+  fullBio: "我是一名拥有3年经验的后端开发工程师。我喜欢将复杂的业务逻辑转化为简洁、高效的代码。在日常开发中，我不仅关注代码质量，更注重系统的整体架构和性能优化。我相信优秀的技术可以驱动业务的快速增长。",
   avatarUrl: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=800&auto=format&fit=crop", // 占位图，后续可替换
 };
 
@@ -45,14 +45,14 @@ export const projects: Project[] = [
     description: "一个现代化、响应式的个人作品集网站，采用蓝绿色调的清爽设计，通过 Framer Motion 实现丝滑的交互动画。",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=800&auto=format&fit=crop", // 占位图
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-    githubUrl: "https://github.com/",
+    githubUrl: "https://github.com/qian-rann/dev-portfolio",
   }
 ];
 
 export const contactInfo: ContactInfo = {
-  email: "developer@example.com", // 请修改为你的邮箱
-  github: "https://github.com/",
-  blog: "https://blog.example.com", // 可选
+  email: "qianran227@outlook.com", // 请修改为你的邮箱
+  github: "https://github.com/qian-rann",
+  blog: "https://qian-rann.github.io/", // 可选
 };
 
 // 导航栏配置数组，方便后续渲染
